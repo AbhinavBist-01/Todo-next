@@ -1,0 +1,14 @@
+
+> my-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.30.240.1:3000
+- Environments: .env
+✓ Ready in 737ms
+
+ GET /signIn 500 in 1992ms (next.js: 1753ms, application-code: 239ms)
+ GET /todo 500 in 1057ms (next.js: 1049ms, application-code: 8ms)
+ GET /signUp 500 in 1613ms (next.js: 1573ms, application-code: 40ms)
+ GET /signIn 500 in 960ms (next.js: 919ms, application-code: 41ms)
